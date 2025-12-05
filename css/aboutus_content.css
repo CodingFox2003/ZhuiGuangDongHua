@@ -1,0 +1,100 @@
+/* 返回 */
+#content .backward{
+    width: 100px;
+    height: 35px;
+    margin: 10px;
+    padding: 0px;
+    /* border: 1px solid #ddd; */
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px #ccc;
+    float: left;
+}
+#content .backward:hover{
+    box-shadow: 2px 2px 10px #b01818;
+}
+#content .backward a{
+    text-decoration: none;
+    color: #000;
+}
+#content .backward p{
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 0px;
+}
+/* 公司简介 */
+#content .firm_introduction {
+    width: 980px;
+    height: auto;
+    margin: 10px;
+    padding: 0px;
+    /* border: 1px solid #ddd; */
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px #aaa;
+    overflow: hidden;
+}
+/* 公司Logo */
+#content .firm_introduction .logo_pic{
+    width: 960px;
+    height: auto;
+    margin: 10px;
+    padding: 0px;
+    /* border: 1px solid #ddd; */
+    border-radius: 15px;
+}
+#content .firm_introduction .logo_pic img{
+    width: 960px;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px #ccc;
+}
+/* 公司简介 */
+#content .basic_info{
+    width: 930px;
+    height: auto;
+    margin: 10px;
+    padding: 5px 15px;
+    /* border: 1px solid #ddd; */
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px #ccc;
+}
+#content .basic_info p{
+    font-size: 16px;
+    font-weight:lighter;
+    line-height: 25px;
+    text-indent: 2em;
+    margin: 10px 0px;
+    padding: 0px 20px;
+}
+/* 发展历程 */
+#content .development_history{
+    width: 930px;
+    height: auto;
+    margin: 10px;
+    padding: 5px 15px;
+    /* border: 1px solid #ddd; */
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px #ccc;
+}
+#content .development_history li{
+    font-size: 18px;
+    font-weight: medium;
+    margin: 10px 0px;
+}
+/* 代表作品 */
+#content .representative_works{
+    width: 930px;
+    height: auto;
+    margin: 10px;
+    padding: 5px 15px;
+    /* border: 1px solid #ddd; */
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px #ccc;
+}
+#content .representative_works p{
+    font-size: 18px;
+    font-weight: medium;
+    margin: 10px 0px;
+}

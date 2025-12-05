@@ -1,0 +1,36 @@
+body {
+    width: 1000px;
+    height: auto;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+#header {
+    width: 1000px;
+    height: 90px;
+    background-color: #000;
+    color: #eee;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#content {
+    width: 1000px;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    /* border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px #666;
+    overflow: hidden; */
+}
+#footer {
+    width: 1000px;
+    height: 120px;
+    background-color: #b22525;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}

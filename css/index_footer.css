@@ -1,0 +1,26 @@
+#footer .firm_info {
+    width: 360px;
+    height: 100px;
+    margin: 0 10px;
+    /* border: #fff 1px solid; */
+    color: #fff;
+    padding: 10px;
+    float: left;
+}
+#footer .firm_info p {
+    font-size: 12px;
+}
+#footer .webpage_info {
+    width: 240px;
+    height: 100px;
+    margin: 0 10px;
+    padding: 10px;
+    /* border: 1px solid #962121; */
+    color: #fff;
+    float: right;
+    /* justify-items: end; */
+}
+#footer .webpage_info p {
+    font-size: 12px;
+    text-align: right;
+}

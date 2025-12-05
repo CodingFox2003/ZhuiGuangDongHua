@@ -1,0 +1,43 @@
+#header .logo {
+    width: auto;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    float: left;
+    display: flex;
+    object-fit: cover;
+}
+#header .logo a img {
+    display: block;
+    width: auto;
+    height: 90px;
+    object-fit: cover;
+    box-shadow: 160px 30px 200px #ff4242;
+}
+#header .nav {
+    width: 300px;
+    height: 90px;
+    margin: auto 20px;
+    padding: 0;
+    background-color: #000;
+    float: right;
+    display: grid;
+    grid-template-columns: repeat(3, 80px);
+    grid-gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+#header .nav a {
+    width: 80px;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+    display: block;
+}
